@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi there 👋
+# 👋 Hello, World! I'm SAMRIDH MISHRA
 
-<!--
-**mrunknown555x7007-crypto/mrunknown555x7007-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "Exploring the frontiers of technology, one line of code at a time."
 
-Here are some ideas to get you started:
+Welcome to my profile! I am a passionate and driven student eager to solve real-world problems through software development and algorithmic thinking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍🎓 About Me
+
+* **Academic Branch:** Computer Science Engineering 💻
+* **Current Status:** 1st Year 🌱
+
+---
+
+## 🎯 Learning Goal
+
+**My primary mission** is to deepen my understanding of artificial intelligence and continue building complex, real-world Python applications. I am constantly looking to challenge myself with new algorithms, intelligent systems, and scalable architectures.
+
+---
+
+## 🚀 What I'm Building
+
+Applying theoretical knowledge to practical applications is a core part of my journey. Here are a few technical projects I've been developing:
+
+* ♟️ **AI-Powered Chess Bot:** Building an intelligent engine to explore game theory and artificial intelligence mechanics.
+* 🏋️ **Gym Management System:** A comprehensive Python application designed to streamline facility operations, handle backend data, and manage user interactions.
+
+---
+
+## 🛠️ Tech Stack & Focus Areas
+
+| Category | Interests & Technologies |
+| :--- | :--- |
+| **Core Languages** | Python 🐍 |
+| **Domain Interests** | Artificial Intelligence 🤖, Software Engineering ⚙️, Complex Systems 🧩 |
+
+---
+
+### 📫 Let's Connect!
+I am always open to collaborating on open-source projects, discussing AI advancements, or chatting about the latest in Computer Science.
