@@ -1,4 +1,3 @@
-# Hi there 👋
 # 👋 Hello, World! I'm SAMRIDH MISHRA
 
 > "Exploring the frontiers of technology, one line of code at a time."
