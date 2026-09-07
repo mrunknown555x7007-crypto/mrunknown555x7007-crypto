@@ -9,7 +9,7 @@ Welcome to my profile! I am a passionate and driven student eager to solve real-
 ## 🧑‍🎓 About Me
 
 * **Academic Branch:** Computer Science Engineering 💻
-* **Current Status:** 1st Year 🌱
+* **Current Status:** 2nd Year 🌱
 
 ---
 
